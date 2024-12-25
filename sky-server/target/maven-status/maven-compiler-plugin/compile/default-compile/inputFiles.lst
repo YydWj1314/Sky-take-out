@@ -1,8 +1,0 @@
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/config/WebMvcConfiguration.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/interceptor/JwtTokenAdminInterceptor.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/mapper/EmployeeMapper.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/SkyApplication.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/controller/admin/EmployeeController.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/handler/GlobalExceptionHandler.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/service/EmployeeService.java
-/Users/yueyangdong/Desktop/Project/HeimaSky/sky-take-out/sky-server/src/main/java/com/sky/service/impl/EmployeeServiceImpl.java
